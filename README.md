@@ -9,9 +9,9 @@ thoughts and opinions I might have that I think are worth sharing
 journals on my time as a undergrad  
 
 ## About the code:
-Technologies used:  
+#### Technologies used:  
 - Svelte, Javascript, Typescript, Mdsvex, Node  
-Features:  
+#### Features:  
 - Dynamic slug routing, markdown support  
-Potential new additions:  
+#### Potential new additions:  
 - Latex support, expanded md->html rendering components  
