@@ -8,7 +8,7 @@ thoughts and opinions I might have that I think are worth sharing
 ### College: 
 journals on my time as a undergrad  
 
-### About the code:
+## About the code:
 Technologies used:  
 - Svelte, Javascript, Typescript, Mdsvex, Node  
 Features:  
