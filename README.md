@@ -8,12 +8,10 @@ thoughts and opinions I might have that I think are worth sharing
 ### College: 
 journals on my time as a undergrad  
 
-## Meta information on the code in particular:
-## Technologies:  
-Svelte, Javascript, Typescript, Mdsvex  
-## Features:  
-- Dynamic slug routing  
-- Markdown posts  
-## Roadmap:  
-- Latex support  
-- lists  
+### About the code:
+Technologies used:  
+- Svelte, Javascript, Typescript, Mdsvex, Node  
+Features:  
+- Dynamic slug routing, markdown support  
+Potential new additions:  
+- Latex support, expanded md->html rendering components  
