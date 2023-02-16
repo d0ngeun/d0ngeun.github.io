@@ -13,7 +13,6 @@ const config = {
 
 	kit: {
 		adapter: adapter({ 
-			strict: false,
 			pages: 'build',
 			assets: 'build',
 			fallback: null

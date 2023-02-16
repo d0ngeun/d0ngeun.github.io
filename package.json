@@ -13,11 +13,11 @@
 		"test": "pnpm test:unit run && pnpm test:playwright",
 		"lint": "prettier --plugin-search-dir . --check . && eslint .",
 		"format": "prettier --plugin-search-dir . --write .",
-		"deploy": "npx gh-pages -d dist"
+		"deploy": "node ./gh-pages.js"
 	},
 	"devDependencies": {
 		"@playwright/test": "^1.28.1",
-		"@sveltejs/adapter-static": "^1.0.0-next.50",
+		"@sveltejs/adapter-static": "^1.0.6",
 		"@sveltejs/kit": "^1.0.0",
 		"@typescript-eslint/eslint-plugin": "^5.45.0",
 		"@typescript-eslint/parser": "^5.45.0",
