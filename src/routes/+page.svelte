@@ -1,18 +1,14 @@
-<script>
-    import Software_gallery from "$lib/software_gallery/software_gallery.svelte"
-</script>
-
 <div class="profile">
     <div class="profile_inner">
         <div class="profile_img">
             <img src="https://i.pinimg.com/originals/4f/c9/81/4fc981d2f0d226ce16b40d35bdd25787.jpg" alt="asd">
         </div>
         <div class="profile_text">
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem dolor sed viverra ipsum. Odio euismod lacinia at quis risus. Fusce id velit ut tortor pretium viverra. Condimentum id venenatis a condimentum vitae. Pretium fusce id velit ut tortor pretium viverra. Risus sed vulputate odio ut enim blandit. Scelerisque fermentum dui faucibus in. Viverra maecenas accumsan lacus vel facilisis. Pulvinar neque laoreet suspendisse interdum consectetur libero id. Suspendisse potenti nullam ac tortor vitae purus faucibus ornare. Blandit turpis cursus in hac habitasse platea. Nulla at volutpat diam ut venenatis tellus in.</p>    
+            <p>
+                Hi, I'm James.<br>Currently a first year undergraduate at <a href="https://en.wikipedia.org/wiki/Rensselaer_Polytechnic_Institute">RPI</a> studying computer science.<br>
+            </p>
+            <!--<br>software ive worked on<br>fun facts about me and my hobbies: drawings, art, music, reading<br>contacts<br>get more inspo from other about pages<br>-->
         </div>
-    </div>
-    <div class="software">
-        <Software_gallery></Software_gallery>
     </div>
 </div>
 
@@ -20,7 +16,7 @@
 .profile {
     padding-top: 5%;
     width: 50%;
-    margin: auto;
+    margin: 0 auto;
 }
 .profile_inner {
   display: flex;
@@ -38,11 +34,6 @@
     white-space: pre-wrap;
     word-break: break-word;
 }
-.software {
-    padding-top: 10%;
-    text-align: center;
-}
-
 /* 768px */
 @media only screen and (max-width:48em) {
    .profile_inner { 

@@ -14,4 +14,4 @@ journals on my time as a undergrad
 #### Features:  
 - Dynamic slug routing, markdown support  
 #### Potential new additions:  
-- Latex support, expanded md->html rendering components  
+- Latex support, expanded md->html rendering components, better mobile navbar

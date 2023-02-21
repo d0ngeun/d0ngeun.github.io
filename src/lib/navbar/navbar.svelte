@@ -7,6 +7,7 @@
     // List of navigation items
     const navItems = [
       { label: "about", href: "/" },
+      // { label: "misc", href: "/misc" },
       { label: "blogs", href: "/blogs" },
     ];
   

@@ -12,6 +12,13 @@ tag: "devlogs"
 </script>
 <SEO title={title} description={description}/>
 
+<style>
+  a {
+    color: black;
+    text-decoration: none;
+  }
+</style>
+
 ---
 # first header
 ## second header
