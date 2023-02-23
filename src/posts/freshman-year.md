@@ -2,7 +2,7 @@
 title: 'Freshman Year'
 description: "A recap of my first year as a RPI CS major"
 date: '2023-02-23'
-published: true
+published: false
 tag: "college"
 ---
 
