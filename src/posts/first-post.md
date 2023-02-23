@@ -2,7 +2,7 @@
 title: 'the first post'
 description: "testing post"
 date: '2023-02-15'
-published: true
+published: false
 tag: "devlogs"
 ---
 
