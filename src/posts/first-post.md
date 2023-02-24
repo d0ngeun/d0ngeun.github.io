@@ -2,8 +2,8 @@
 title: 'the first post'
 description: "testing post"
 date: '2023-02-15'
-published: false
-tag: "devlogs"
+published: true
+tag: "essays"
 ---
 
 <script>

@@ -2,8 +2,8 @@
 title: 'Peanut OS'
 description: "What I've learned from building my own operating system"
 date: '2023-02-24'
-published: false
-tag: "college"
+published: true
+tag: "devlogs"
 ---
 
 <script>
